@@ -1,0 +1,23 @@
+{
+  "name": "Recipe-Scrape",
+  "version": "1.0.0",
+  "description": "A recipe scraping algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmalamudroam/Recipe-Scrape.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmalamudroam/Recipe-Scrape/issues"
+  },
+  "homepage": "https://github.com/dmalamudroam/Recipe-Scrape#readme",
+  "dependencies": {
+    "puppeteer": "^10.1.0"
+  }
+}
